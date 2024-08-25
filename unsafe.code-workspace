@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "bot"
+		},
+		{
+			"path": "miniapp2"
+		},
+		{
+			"path": "../website-with-a-question-answer/frontend"
+		}
+	],
+	"settings": {}
+}
